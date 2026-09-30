@@ -34,4 +34,4 @@ I'm a **B.E. Electronics & Communication Engineering graduate** interested in bu
 
 ### 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/mohamedwazeemj) · [GitHub](https://github.com/MohamedWazeemJassir)
+[Email](mailto:mohamedwazeemjassir@gmail.com) · [LinkedIn](https://linkedin.com/in/mohamedwazeemj) · [GitHub](https://github.com/MohamedWazeemJassir)
