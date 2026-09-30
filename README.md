@@ -1,9 +1,37 @@
-# 💫 About Me:
-🔭 Currently working on<br>Full-stack projects using Django, Node.js, Java, and React<br><br>👯 Looking to collaborate on<br>Beginner-friendly open-source & learning projects<br><br>🤝 Looking for help with<br>Backend best practices & clean architecture<br><br>🌱 Currently learning<br>MERN stack, REST APIs, and database design<br><br>💬 Ask me about<br>Django, APIs, and project-based learning<br><br>⚡ Fun fact<br>I believe shipping projects matters more than certificates 🚀
+# Hi, I'm Mohamed Wazeem 👋
 
+### Python Developer | Full-Stack Developer | AI & Agentic AI Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedwazeemj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedwazeemjassir@gmail.com) 
+I'm a **B.E. Electronics & Communication Engineering graduate** interested in building practical software and exploring emerging AI technologies.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white)
+### 🛠️ Tech Stack
+
+**Languages:** Python, JavaScript, TypeScript, C, Java, SQL
+
+**Frontend:** React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap
+
+**Backend:** Django, FastAPI, Flask, Node.js, Express.js
+
+**AI:** Generative AI, LLMs, RAG, AI Agents, LangChain, LangGraph, Gemini, OpenAI
+
+**Databases:** PostgreSQL, MongoDB, MySQL, SQLite, Qdrant
+
+**Tools:** Git, GitHub, Docker, Linux, Vercel, Render
+
+### 🚀 Currently Exploring
+
+- 🤖 Generative AI & Agentic AI
+- 🧠 LLM applications & RAG
+- 🐍 Python backend development
+- 🌐 Full-stack development
+- 🔧 AI-powered automation
+
+### 🎯 Open to
+
+**Python • Full-Stack • AI/GenAI • Agentic AI • R&D • Startup Opportunities**
+
+> Learn → Build → Experiment → Improve
+
+### 📫 Connect
+
+[LinkedIn](https://linkedin.com/in/mohamedwazeemj) · [GitHub](https://github.com/MohamedWazeemJassir)
